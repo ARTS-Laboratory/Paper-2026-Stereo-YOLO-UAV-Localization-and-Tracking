@@ -48,7 +48,7 @@ Cite this data as:
   title  = {Paper 2026 Stereo YOLO UAV Localization and Tracking},  
   groups = {ARTS-Lab},    
   year = {2026},   
-  url    = {https://github.com/ARTS-Laboratory/Paper-2026-Stereo-YOLO-UAV-Localization-and-Tracking/tree/main},   
+  url    = {https://github.com/ARTS-Laboratory/Paper-2026-Stereo-YOLO-UAV-Localization-and-Tracking},   
 }
 
 
