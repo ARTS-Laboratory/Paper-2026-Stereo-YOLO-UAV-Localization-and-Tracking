@@ -18,7 +18,7 @@ Figure 2: Positional placement of cameras that will send visual data to the comp
 </p>
 
 <p align="center">
-<img src="Figures/YOLO_drone_detection.png" alt="drawing" width="700"/>
+<img src="Figures/YOLO_Annotation_Grid.png" alt="drawing" width="700"/>
 </p>
 <p align="center">
 Figure 3: YOLO bounding box output of the UAV during flight, with the center representing the coordinate location of the drone. 
