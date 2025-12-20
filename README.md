@@ -4,14 +4,14 @@ Workspace for 2026 AIAA SciTech paper "Stereo YOLO UAV Localization and Tracking
 This work is completed on the basis of a UAV-deployable sensor package system that can be flown and magnetically attach sensors underneath metal elements of a structure [1,2]. This system uses two cameras for stereo vision to track the movement of the UAV as it docks its magnetic sensors. An object tracking algorithm called You Only Look Once (YOLO) has been trained on images of the UAV flight to translate color images of the drone flight into three-dimensional coordinates, with the help of some additional Python code for this stereo analysis of input images. These three-dimensional coordinates were derived by having the object tracking algorithm draw bounding boxes around the element of interest (the UAV), where the center of the bounding box is considered the coordinate location of the drone.
 
 <p align="center">
-<img src="Figures/Experimental_Setup.jpg" alt="drawing" width="700"/>
+<img src="Figures/Experimental_Setup.png" alt="drawing" width="700"/>
 </p>
 <p align="center">
 Figure 1: Complete set-up of UAV flight zone and docking area with associated cameras. 
 </p>
 
 <p align="center">
-<img src="Figures/cam_position_real.png" alt="drawing" width="700"/>
+<img src="Figures/cam_position_real.jpg" alt="drawing" width="700"/>
 </p>
 <p align="center">
 Figure 2: Positional placement of cameras that will send visual data to the computer running YOLO. 
